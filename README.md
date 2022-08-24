@@ -1,7 +1,7 @@
 <p align="center"><img height="200px" src="https://github.com/ndt2804/ndt2804/blob/main/it.gif" alt="ndt2804 :: images" /></p>
 <p align="center">Hi, I'm Nguyen Duy Tan 👋</p>
 <p align="center"><a href="https://github.com/dinhtnguyenn">
-  <img src="https://komarev.com/ghpvc/?username=dinhtnguyenn&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ndt2804&style=flat-square" />
 </a></p>
 <p align="center"><a href="noJS">https://github.com/ndt2804</a></p>
 <div align="center">
