@@ -12,7 +12,7 @@
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   </p>
 <div align="center">
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true" alt="dinhtnguyenn :: Profile Stats" />
+<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true&theme=dracula" alt="ndt2804 :: Profile Stats" />
 <img align="right" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndt2804&langs_count=10&layout=compact" alt="ndt2804 :: Top Langs" />
 </div>
 
