@@ -8,6 +8,7 @@
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true" alt="dinhtnguyenn :: Profile Stats" />
 <img align="right" height="177px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndt2804&langs_count=10&layout=compact" alt="ndt2804 :: Top Langs" />
 </div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <!---
 ndt2804/ndt2804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
