@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/ndt2804">
  <img src="https://komarev.com/ghpvc/?username=ndt2804&style=flat-square" /></a></p>
 <p align="center"><a href=https://github.com/ndt2804>atarashiiJS</a></p>
-<p align="center"><a href=https://rainobe.com/>My Website</a></p>
+<p align="center"><a href=https://duytan.dev/>My Website</a></p>
 
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
