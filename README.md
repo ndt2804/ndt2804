@@ -4,18 +4,34 @@
  <img src="https://komarev.com/ghpvc/?username=ndt2804&style=flat-square" /></a></p>
 <p align="center"><a href=https://duytan.dev/>My Website</a></p>
 
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
- <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png"alt="Vue logo" width="40" height="40"/> </a>
+<br/>
 
-  </p>
+<div align="center"> 
+  <a href="mailto:nduytan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nduytan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://duytan.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 <div align="center">
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true&theme=dracula" alt="ndt2804 :: Profile Stats" />
-<img align="right" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndt2804&langs_count=10&layout=compact" alt="ndt2804 :: Top Langs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,next,vue,nuxt,typescript,javascript," /><br>
+  <img src="https://skillicons.dev/icons?i=docker,github,gitlab,bootstrap,html,css,tailwind,supabase,mongodb," /><br>
+</div>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndt2804&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="ndt2804 :: Profile Stats"  />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ndt2804&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="ndt2804 :: Top Langs" />
+
 </div>
 
 
