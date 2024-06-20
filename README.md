@@ -2,7 +2,7 @@
 <p align="center">Hi, I'm Nguyen Duy Tan 👋</p>
 <p align="center"><a href="https://github.com/ndt2804">
  <img src="https://komarev.com/ghpvc/?username=ndt2804&style=flat-square" /></a></p>
-<p align="center"><a href=https://duytan.dev/>My Website</a></p>
+<p align="center"><a href=https://tannd.me/>My Website</a></p>
 
 <br/>
 
